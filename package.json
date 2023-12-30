@@ -9,12 +9,12 @@
   "author": "Anuj Maurya",
   "license": "ISC",
   "engines": {
-    "node": "14.15.3"
+    "node": "16.20.1"
   },
   "dependencies": {
     "@types/bson": "^4.2.0",
     "body-parser": "^1.18.3",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.9",
     "express": "^4.16.3",
     "lodash": "^4.17.21",
     "mongoose": "^5.13.21"
